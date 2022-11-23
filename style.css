@@ -1,0 +1,52 @@
+header{
+	border: 1px solid black;
+	margin: 10px 20px 0 20px;
+	min-height: 300px;
+}
+
+nav {
+
+  display: block;
+  width: 100%;
+  margin: 0 auto 30px;
+}
+nav ul {
+  
+  padding: 20px 10px;  
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
+nav a:hover{
+	background-color: #00FFFF;
+}
+nav a {
+  padding: 20px;
+  background: rgba(177, 152, 145, .3);
+  border-right: 1px solid #b19891;
+  color: #695753;
+
+}
+
+nav ul li {
+
+  display: inline;  
+
+}
+
+article{
+	
+	border: 1px solid black;
+	min-height: 700px;
+	margin: 5px 20px 0 20px;
+	padding: 10px 10px 10px 10px;
+}
+
+footer {
+	margin: 20px;
+	border: 1px solid black;
+	min-height: 100px;
+}
+
+
